@@ -1,0 +1,11 @@
+- Install docker desktop
+- Spring Initializr
+  - Lombok
+  - Docker Compose Support
+  - Spring Web
+  - Rest Repositories
+  - Spring Data MongoDB
+- springdoc-openapi-starter-webmvc-ui
+- application.properties
+- Thing.java
+- ThingRepository.java
