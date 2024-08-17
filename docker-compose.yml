@@ -6,6 +6,7 @@ services:
       - '27017:27017'
     volumes:
       - db:/data/db
+    container_name: spring-docker-mongodb
 volumes:
   db:
     driver:
