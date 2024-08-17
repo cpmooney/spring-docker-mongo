@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.moondog.labs</groupId>
-	<artifactId>spring-docker</artifactId>
+	<artifactId>spring-docker-mongodb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-docker</name>
 	<description>SDR - Hooks</description>

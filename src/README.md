@@ -9,3 +9,5 @@
 - application.properties
 - Thing.java
 - ThingRepository.java
+- Install Mongo compass
+- Change port to what you have configured in your docker-compose
